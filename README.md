@@ -20,3 +20,7 @@ This project explores the application of two powerful convolutional neural netwo
 This project aims to provide a detailed comparative analysis of ResNet and EfficientNet models, offering valuable insights for developers and researchers interested in applying these architectures in the food domain. The repository includes all source code, a set of pretrained models, and a Jupyter notebook that guides users through the process of training, evaluating, and understanding the models.
 
 --- 
+
+![screencapture-colab-research-google-drive-1a6U3lBBQk1eskevrNql0a3Ua1b0PsrM8-2024-05-19-18_47_37](https://github.com/haseebrj17/ResNetvsEfficientNet/assets/56214816/89209b84-d473-4a8d-a18e-d993ac012694)
+
+--- 
